@@ -1,0 +1,138 @@
+header {
+  background: #fcdb00;
+  padding-top: 60px; }
+
+.header-container, .footer-container {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto; }
+
+.logo {
+  height: 45px;
+  width: 150px; }
+
+.navbar {
+  font-size: 22px;
+  color: #000;
+  text-decoration: none; }
+
+.menu {
+  color: #000;
+  font-size: 22px; }
+
+.header-container a:hover {
+  text-decoration: none; }
+
+.header-title {
+  margin-top: 130px;
+  font-size: 32px;
+  font-weight: bold; }
+
+.header-sub-title {
+  font-size: 20px; }
+
+.img-btw {
+  margin-right: 20px; }
+
+.img-mobile {
+  margin-top: 70px;
+  max-height: 470px; }
+
+.slider-buttons {
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65px; }
+
+.slider-buttons-image {
+  height: 20px;
+  width: 65px;
+  background: url(https://picua.org/images/2019/03/21/60b6ba3b3c0249b011af5d251ca5dcd6.png) no-repeat;
+  margin-bottom: 20px; }
+
+.main-part {
+  margin-top: 115px;
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 115px; }
+
+.main-part-title {
+  font-size: 50px;
+  text-align: center; }
+
+.main-part-subtitle {
+  font-size: 20px;
+  max-width: 735px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 80px; }
+
+.feature-img {
+  margin-right: 10px; }
+
+.responsive-feature-text, .layered-feature-text, .icons-feature-text, .html-feature-text, .email-feature-text, .download-feature-text {
+  font-size: 16px; }
+
+.responsive-feature-title, .layered-feature-title, .icons-feature-title, .html-feature-title, .email-feature-title, .download-feature-title {
+  font-size: 22px; }
+
+footer {
+  background: #010101; }
+
+.keep-in-touch-title {
+  padding-top: 95px;
+  font-size: 32px;
+  color: #fcdb00; }
+
+.keep-in-touch-text {
+  color: #808080;
+  max-width: 740px;
+  font-size: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center; }
+
+form {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto; }
+
+.form-control {
+  height: 50px !important;
+  border: none; }
+
+.form-group {
+  width: 75%; }
+
+.btn-submit {
+  width: 25%; }
+
+.btn-submit-style {
+  width: 95%;
+  margin-left: 10px;
+  border: none;
+  border-radius: .25rem !important;
+  height: 50px !important;
+  text-transform: uppercase;
+  background-color: #fcdb00 !important; }
+
+.social-networks {
+  margin-top: 75px;
+  width: 240px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 130px; }
+
+.footer-links {
+  width: 100%; }
+
+.footer-links-adress, .footer-links-examples, .footer-links-contact, .footer-links-download, .footer-links-media {
+  color: white;
+  font-size: 16px;
+  line-height: 0.4em; }
+
+.footer-links-email, .footer-links-examples a, .footer-links-contact a, .footer-links-download a, .footer-links-media a {
+  text-decoration: none;
+  color: white; }
